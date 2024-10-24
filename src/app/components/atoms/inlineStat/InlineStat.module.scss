@@ -1,0 +1,23 @@
+@import "index";
+
+.inline_stat {
+  @include flex-space-between(6px);
+
+  .inline_stat__label {
+    color: var(--secondary-25, rgba(236, 243, 255, 0.25));
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+  }
+
+  .inline_stat__value {
+    color: var(--secondary-50, rgba(236, 243, 255, 0.5));
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+  }
+}

@@ -1,0 +1,14 @@
+@import "index";
+
+.inline_feature {
+  @include flex-vertical-center(12px);
+
+  .inline_feature__text {
+    color: #fff;
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+  }
+}

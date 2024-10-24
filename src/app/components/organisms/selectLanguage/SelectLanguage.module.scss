@@ -1,0 +1,10 @@
+@import "index";
+
+.selecet_language__heading {
+  @include flex-space-between(16px);
+  padding: 12px;
+
+  .heading__info {
+    @include flex-center(12px);
+  }
+}

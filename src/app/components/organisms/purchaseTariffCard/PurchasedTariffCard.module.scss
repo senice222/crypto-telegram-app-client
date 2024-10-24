@@ -1,0 +1,75 @@
+@import "index";
+
+.purchased_tariff_card {
+  @include flex-column(8px);
+  padding: 16px 20px;
+  border-radius: 16px;
+  border: 1px solid var(--secondary-25, rgba(236, 243, 255, 0.05));
+  background: radial-gradient(
+      78.15% 102.8% at 96.49% 2.03%,
+      rgba(236, 243, 255, 0.05) 0%,
+      rgba(53, 41, 15, 0) 100%
+    ),
+    #1a1c1e;
+
+  .purchase_tariff_card__blockchains {
+    @include flex-space-between;
+
+    .blockchains__list {
+      @include flex-vertical-center(10px);
+    }
+  }
+
+  .purchase_tariff__amount {
+    .amount__value {
+      color: #fff;
+      font-family: Inter;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 160%;
+    }
+
+    .amount__description {
+      color: var(--secondary-50, rgba(236, 243, 255, 0.5));
+      font-family: Inter;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 160%;
+    }
+  }
+
+  .purchase_tariff__next {
+    @include flex-space-between;
+
+    .next__title {
+      color: var(--secondary-25, rgba(236, 243, 255, 0.25));
+      font-family: Inter;
+      font-size: 13px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 160%;
+    }
+    .next__date {
+    }
+  }
+}
+
+.exclusive {
+  background: radial-gradient(
+      78.15% 102.8% at 96.49% 2.03%,
+      rgba(255, 207, 94, 0.15) 0%,
+      rgba(53, 41, 15, 0) 100%
+    ),
+    #1a1c1e;
+}
+
+.platinum {
+  background: radial-gradient(
+      78.15% 102.8% at 96.49% 2.03%,
+      rgba(182, 209, 255, 0.15) 0%,
+      rgba(58, 64, 69, 0) 100%
+    ),
+    #1a1c1e;
+}

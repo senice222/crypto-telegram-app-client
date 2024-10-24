@@ -1,0 +1,40 @@
+@import "index";
+
+.checkbox {
+  @include flex-center;
+  @include inset-border(rgba(236, 243, 255, 0.1));
+  border-radius: 64px;
+  width: 20px;
+  height: 20px;
+  transition: background-color 0.15s;
+
+  svg {
+    transition: transform 0.15s;
+
+    path {
+      transition: opacity 0.15s;
+    }
+  }
+}
+
+.checked {
+  background: #3c59da;
+
+  svg {
+    transform: scale(1);
+
+    path {
+      opacity: 1;
+    }
+  }
+}
+
+.unchecked {
+  svg {
+    transform: scale(0.4);
+
+    path {
+      opacity: 0;
+    }
+  }
+}

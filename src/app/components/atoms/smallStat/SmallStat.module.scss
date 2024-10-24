@@ -1,0 +1,57 @@
+@import "index";
+
+.small_stat {
+  @include flex-column(2px);
+  padding: 6px 8px;
+  width: 100%;
+
+  .small_stat__heading {
+    @include flex-vertical-center(10px);
+
+    .heading__separator {
+      width: 2px;
+      height: 12px;
+    }
+
+    .heading__title {
+      font-family: Inter;
+      font-size: 13px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 160%;
+    }
+  }
+
+  .small_stat__value {
+    color: #fff;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+  }
+}
+
+.green {
+  .small_stat__heading {
+    .heading__separator {
+      background: #96e14f;
+    }
+
+    .heading__title {
+      color: #96e14f;
+    }
+  }
+}
+
+.gray {
+  .small_stat__heading {
+    .heading__separator {
+      background: rgba(236, 243, 255, 0.45);
+    }
+
+    .heading__title {
+      color: rgba(236, 243, 255, 0.45);
+    }
+  }
+}

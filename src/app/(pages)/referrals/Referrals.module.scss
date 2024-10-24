@@ -1,0 +1,40 @@
+@import "index";
+
+.referrals {
+  @include flex-column;
+
+  .referrals__statistics {
+    @include flex-column(16px);
+    padding: 24px 20px;
+
+    .statistics__heading {
+      @include flex-space-between(6px);
+    }
+  }
+
+  .referrals__rewards {
+    @include flex-column(32px);
+    padding: 24px 20px;
+
+    .rewards__data {
+      @include flex-column(16px);
+
+      .data__statistics {
+        @include flex-space-between(16px);
+      }
+    }
+  }
+
+  .referrals__marketing {
+    @include flex-column(32px);
+    padding: 24px 20px;
+
+    .marketing__info {
+      @include flex-column(16px);
+
+      .marketing__heading {
+        @include flex-vertical-center(12px);
+      }
+    }
+  }
+}

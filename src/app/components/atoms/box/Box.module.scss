@@ -1,0 +1,59 @@
+@import "index";
+
+.box {
+  gap: var(--gap, 0px);
+  border-radius: var(--border-radius, 0px);
+  z-index: 1;
+}
+
+.dark_gray {
+  background: #131517;
+}
+
+.light_gray {
+  background: #1c1e20;
+}
+
+.gray {
+  background: #1a1c1e;
+}
+
+.b_gray {
+  @include inset-border(rgba(236, 243, 255, 0.06));
+}
+
+.box.b_gray > * {
+  position: relative;
+  z-index: 1;
+}
+
+.b_dark_gray {
+}
+
+.flex_vertical_center {
+  @include flex-vertical-center;
+}
+
+.flex_center {
+  @include flex-center;
+}
+
+.flex_right {
+  @include flex-right;
+}
+
+.flex_left {
+  @include flex-left;
+}
+
+.flex_space_between {
+  @include flex-space-between;
+}
+
+.flex_column {
+  @include flex-column;
+}
+
+.flex_column_center {
+  @include flex-column-center;
+}

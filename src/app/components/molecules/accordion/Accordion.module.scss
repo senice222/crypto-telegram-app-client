@@ -1,0 +1,6 @@
+@import "index";
+
+.accordion {
+  @include flex-column;
+  gap: 24px;
+}

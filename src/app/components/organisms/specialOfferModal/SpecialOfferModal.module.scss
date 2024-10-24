@@ -1,0 +1,30 @@
+@import "index";
+
+.special_offer_modal__content {
+  @include flex-column-center(6px);
+  border-radius: 12px;
+  border: 1px solid var(--secondary-25, rgba(236, 243, 255, 0.03));
+  padding: 24px;
+  background: radial-gradient(
+      62.47% 100% at 50% 0%,
+      rgba(255, 207, 94, 0.27) 0%,
+      rgba(53, 41, 15, 0) 100%
+    ),
+    #1a1c1e;
+
+  .content__prices {
+    @include flex-center(10px);
+  }
+
+  .content__blockchains {
+    @include flex-column-center(12px);
+
+    .blockchains__list {
+      @include flex-center(10px);
+    }
+  }
+}
+
+.special_offer_modal__purchase {
+  padding: 12px;
+}

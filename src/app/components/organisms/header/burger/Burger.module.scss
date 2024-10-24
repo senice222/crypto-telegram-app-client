@@ -1,0 +1,19 @@
+@import "index";
+
+.burger {
+  position: relative;
+
+  .burger__icon {
+    @include flex-center;
+    border-radius: 64px;
+    transition: background-color 0.15s;
+    width: 36px;
+    height: 36px;
+
+    &:hover,
+    &:active {
+      cursor: pointer;
+      background: #1a1b1d;
+    }
+  }
+}

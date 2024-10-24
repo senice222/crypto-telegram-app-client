@@ -1,0 +1,48 @@
+{
+  "node": {
+    "8ef06a64f806e22b418b7e20c3f67c3354700024": {
+      "workers": {
+        "app/(pages)/(index)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/referrals/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/subscription/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/faq/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(pages)/(index)/page": "rsc",
+        "app/(pages)/referrals/page": "rsc",
+        "app/(pages)/subscription/page": "rsc",
+        "app/(pages)/faq/page": "rsc"
+      }
+    },
+    "cac5cc101621e4573cd6e158ffd7141c5ec8a699": {
+      "workers": {
+        "app/(pages)/(index)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/referrals/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/subscription/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/faq/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(pages)/(index)/page": "rsc",
+        "app/(pages)/referrals/page": "rsc",
+        "app/(pages)/subscription/page": "rsc",
+        "app/(pages)/faq/page": "rsc"
+      }
+    },
+    "fc6f38342ea944fd94c0549c3e9a067ad5c1d08d": {
+      "workers": {
+        "app/(pages)/(index)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/referrals/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/subscription/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!",
+        "app/(pages)/faq/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fvar%2Fwww%2Ffrontend%2Fsrc%2Fapp%2Fservices%2Flocale.ts%22%2C%5B%22importAllLocales%22%2C%22getUserLocale%22%2C%22setUserLocale%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(pages)/(index)/page": "rsc",
+        "app/(pages)/referrals/page": "rsc",
+        "app/(pages)/subscription/page": "rsc",
+        "app/(pages)/faq/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "HT4BxAU2KaUkUATlH7nI46opD/j3zj8B0T0Exi2wfn0="
+}

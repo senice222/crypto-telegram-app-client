@@ -1,0 +1,36 @@
+@import "index";
+
+.copy_link {
+  @include flex-center(10px);
+
+  svg {
+    path {
+      transition: fill 0.15s fill-opacity 0.15s;
+    }
+  }
+
+  .copy_link__text {
+    transition: color 0.15s;
+    color: var(--secondary-25, rgba(236, 243, 255, 0.25));
+    font-family: Inter;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    text-transform: uppercase;
+  }
+
+  &:hover {
+    cursor: pointer;
+
+    svg {
+      path {
+        fill-opacity: 0.5;
+      }
+    }
+
+    .copy_link__text {
+      color: var(--secondary-50, rgba(236, 243, 255, 0.5));
+    }
+  }
+}

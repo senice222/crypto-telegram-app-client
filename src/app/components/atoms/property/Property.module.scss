@@ -1,0 +1,6 @@
+@import "index";
+
+.property {
+  @include flex-vertical-center(12px);
+  padding: 6px;
+}

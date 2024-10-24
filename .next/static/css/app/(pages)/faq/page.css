@@ -1,0 +1,551 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/(pages)/faq/Faq.module.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Faq_faq__ZETZH .Faq_faq__heading__f6pSv {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px 20px;
+}
+.Faq_faq__ZETZH .Faq_faq__heading__f6pSv .Faq_heading__title__ewlDj {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.Faq_faq__ZETZH .Faq_faq__list__DJlxa {
+  padding: 24px 20px;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/organisms/header/Header.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Header_header__LtlsR {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/organisms/header/brand/Brand.module.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Brand_brand__8bsBC {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-decoration: none;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/atoms/label/Label.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Label_label__f0BA_ {
+  font-family: Inter;
+  font-style: normal;
+  transition: color 0.15s;
+}
+
+.Label_default__TsKCO {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.Label_small__F6yu7 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.Label_x_small___5jD9 {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.Label_b_default__qnDCz {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+.Label_b_large__CYp1v {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 160%;
+}
+
+.Label_b_small___K_Bt {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+.Label_b_x_small__yzA63 {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 160%;
+}
+
+.Label_white__bVXth {
+  color: #fff;
+}
+
+.Label_light_gray__boouq {
+  color: rgba(236, 243, 255, 0.75);
+}
+
+.Label_gray__bmZO5 {
+  color: rgba(236, 243, 255, 0.5);
+}
+
+.Label_dark_gray__deGbQ {
+  color: rgba(236, 243, 255, 0.25);
+}
+
+.Label_exclusive__Tdxwz {
+  background: linear-gradient(89deg, #ffcf5e 29.53%, #d5a42f 78.26%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/organisms/header/burger/Burger.module.scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Burger_burger__5m9Z_ {
+  position: relative;
+}
+.Burger_burger__5m9Z_ .Burger_burger__icon__dzjii {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 64px;
+  transition: background-color 0.15s;
+  width: 36px;
+  height: 36px;
+}
+.Burger_burger__5m9Z_ .Burger_burger__icon__dzjii:hover, .Burger_burger__5m9Z_ .Burger_burger__icon__dzjii:active {
+  cursor: pointer;
+  background: #1a1b1d;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/molecules/defaultAPWrapper/DefaultAPWrapper.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.DefaultAPWrapper_default_ap_wrapper__It_e7 {
+  width: 100%;
+  height: 100%;
+}
+
+.DefaultAPWrapper_space_between__b9Ufp {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.DefaultAPWrapper_vertical_center__xJtSi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.DefaultAPWrapper_horizontal_center__UQN0Q {
+  display: flex;
+  justify-content: center;
+}
+
+.DefaultAPWrapper_center__0jNO_ {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/organisms/header/burger/navigation/Navigation.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Navigation_navigation__azq0p {
+  width: 230px;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/molecules/mediaDropdown/MediaDropdown.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.MediaDropdown_media_dropdown__F87i1 {
+  border-radius: 12px;
+  background: #131517;
+  box-shadow: 0px 4px 8px 0px rgba(12, 13, 14, 0.25), 0px 16px 32px 0px rgba(12, 13, 14, 0.15);
+  padding: 4px;
+}
+.MediaDropdown_media_dropdown__F87i1 .MediaDropdown_media_dropdown__parent_category__ABIVm {
+  display: flex;
+  flex-direction: column;
+}
+.MediaDropdown_media_dropdown__F87i1 .MediaDropdown_media_dropdown__parent_category__ABIVm .MediaDropdown_parent_category__category__eFzMW {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/molecules/mediaDropdown/item/Item.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Item_item__75A31 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border-radius: 8px;
+  padding: 6px 10px;
+  transition: background-color 0.15s, border 0.15s;
+  border: 1px solid transparent;
+}
+.Item_item__75A31 svg path {
+  transition: fill 0.15s, fill-opacity 0.15s;
+}
+.Item_item__75A31 .Item_item__info__z1chK {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.Item_item__75A31 .Item_item__info__z1chK .Item_info__text__v1F2F {
+  color: var(--secondary-50, rgba(236, 243, 255, 0.5));
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+}
+.Item_item__75A31:hover, .Item_item__75A31:active {
+  cursor: pointer;
+  border: 1px solid rgba(236, 243, 255, 0.02);
+  background: rgba(236, 243, 255, 0.02);
+}
+.Item_item__75A31:hover .Item_item__info__z1chK .Item_info__text__v1F2F, .Item_item__75A31:active .Item_item__info__z1chK .Item_info__text__v1F2F {
+  color: white;
+}
+.Item_item__75A31:hover svg path, .Item_item__75A31:active svg path {
+  fill: white;
+  fill-opacity: 1;
+}
+
+.Item_selected__5z6Xt {
+  border: 1px solid rgba(236, 243, 255, 0.02);
+  background: rgba(236, 243, 255, 0.02);
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/atoms/separator/Separator.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Separator_separator___MLtN {
+  box-sizing: border-box;
+  padding: 24px 36px;
+  width: 100%;
+}
+
+.Separator_horizontal__Lmrxr .Separator_separator__inner__DySo1 {
+  width: 100%;
+  border: 1px dashed rgba(255, 255, 255, 0.07);
+}
+
+.Separator_vertical__ngcZY .Separator_separator__inner__DySo1 {
+  height: 100%;
+  border: 1px dashed rgba(255, 255, 255, 0.07);
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/organisms/header/burger/selectLanguage/SelectLanguage.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.SelectLanguage_selecet_language__heading__Lcyl9 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  transition: background-color 0.15s;
+}
+.SelectLanguage_selecet_language__heading__Lcyl9 svg path {
+  transition: fill 0.15s, fill-opacity 0.15s;
+}
+.SelectLanguage_selecet_language__heading__Lcyl9 .SelectLanguage_heading__text___aaPY {
+  transition: color 0.15s;
+  color: var(--secondary-50, rgba(236, 243, 255, 0.5));
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+}
+.SelectLanguage_selecet_language__heading__Lcyl9:hover, .SelectLanguage_selecet_language__heading__Lcyl9:active {
+  cursor: pointer;
+  background: #1c1e20;
+}
+.SelectLanguage_selecet_language__heading__Lcyl9:hover svg path, .SelectLanguage_selecet_language__heading__Lcyl9:active svg path {
+  fill: white;
+  fill-opacity: 1;
+}
+.SelectLanguage_selecet_language__heading__Lcyl9:hover .SelectLanguage_heading__text___aaPY, .SelectLanguage_selecet_language__heading__Lcyl9:active .SelectLanguage_heading__text___aaPY {
+  color: #fff;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/atoms/box/Box.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Box_box__UJ8D4 {
+  gap: var(--gap, 0px);
+  border-radius: var(--border-radius, 0px);
+  z-index: 1;
+}
+
+.Box_dark_gray__SfF1_ {
+  background: #131517;
+}
+
+.Box_light_gray__5Zt6O {
+  background: #1c1e20;
+}
+
+.Box_gray__w7ys3 {
+  background: #1a1c1e;
+}
+
+.Box_b_gray__lMxEE {
+  position: relative;
+}
+.Box_b_gray__lMxEE::before {
+  content: "";
+  border: 1px solid rgba(236, 243, 255, 0.06);
+  position: absolute;
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
+  border-radius: inherit;
+  left: 0px;
+  top: 0;
+  z-index: 0;
+}
+
+.Box_box__UJ8D4.Box_b_gray__lMxEE > * {
+  position: relative;
+  z-index: 1;
+}
+
+.Box_flex_vertical_center__p_lFy {
+  display: flex;
+  align-items: center;
+}
+
+.Box_flex_center__CvFMV {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Box_flex_right__MN9Aj {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+.Box_flex_left__lpLBE {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.Box_flex_space_between__Y84EK {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Box_flex_column__kPSXO {
+  display: flex;
+  flex-direction: column;
+}
+
+.Box_flex_column_center__GC4rP {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/molecules/selectDropdown/SelectDropdown.module.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.SelectDropdown_select_dropdown__Bn3KQ {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 4px;
+  height: 100%;
+  overflow: auto;
+}
+/*!*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/molecules/selectDropdown/selectDropdownItem/SelectDropdownItem.module.scss ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.SelectDropdownItem_select_dropdown_item__WU4AJ {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(236, 243, 255, 0);
+  transition: border 0.15s, background-color 0.15s;
+}
+.SelectDropdownItem_select_dropdown_item__WU4AJ .SelectDropdownItem_select_dropdown_item__info__TvKtB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+.SelectDropdownItem_select_dropdown_item__WU4AJ .SelectDropdownItem_select_dropdown_item__info__TvKtB .SelectDropdownItem_info__text__nmquK {
+  transition: color 0.15s;
+  color: var(--secondary-50, rgba(236, 243, 255, 0.5));
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 160%;
+}
+.SelectDropdownItem_select_dropdown_item__WU4AJ:hover, .SelectDropdownItem_select_dropdown_item__WU4AJ:active {
+  cursor: pointer;
+  background: #1c1e20;
+}
+.SelectDropdownItem_select_dropdown_item__WU4AJ:hover .SelectDropdownItem_select_dropdown_item__info__TvKtB .SelectDropdownItem_info__text__nmquK, .SelectDropdownItem_select_dropdown_item__WU4AJ:active .SelectDropdownItem_select_dropdown_item__info__TvKtB .SelectDropdownItem_info__text__nmquK {
+  color: #ffffff;
+}
+
+.SelectDropdownItem_selected___TtF6 {
+  border: 1px solid rgba(236, 243, 255, 0.02);
+  background: rgba(236, 243, 255, 0.02);
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/atoms/h3/H3.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.H3_h3__Lo_GN {
+  font-family: Inter;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%;
+  text-transform: uppercase;
+}
+
+.H3_white__1Fyzs {
+  color: #fff;
+}
+
+.H3_light_gray__RLQUy {
+  color: rgba(236, 243, 255, 0.75);
+}
+
+.H3_gray__BBCHO {
+  color: rgba(236, 243, 255, 0.5);
+}
+
+.H3_dark_gray__qh1AG {
+  color: rgba(236, 243, 255, 0.25);
+}
+
+.H3_exclusive__jMRbz {
+  background: linear-gradient(89deg, #ffcf5e 29.53%, #d5a42f 78.26%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.H3_platinum__XpmsB {
+  background: linear-gradient(89deg, #c0cee7 29.53%, #e1ecff 78.26%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/atoms/h1/H1.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.H1_h1__36hg0 {
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 125%;
+}
+
+.H1_white__WU8za {
+  color: #fff;
+}
+
+.H1_light_gray__9AlyC {
+  color: rgba(236, 243, 255, 0.75);
+}
+
+.H1_gray__xUpxv {
+  color: rgba(236, 243, 255, 0.5);
+}
+
+.H1_dark_gray__nOW2L {
+  color: rgba(236, 243, 255, 0.25);
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/molecules/accordion/Accordion.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.Accordion_accordion__C2T4v {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[14].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[14].oneOf[9].use[5]!./src/app/components/molecules/accordion/accordionItem/AccordionItem.module.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.AccordionItem_accordion_item__qHuE0 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion__item__heading__WGPPr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion__item__heading__WGPPr .AccordionItem_heading__info__91EPJ {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion__item__heading__WGPPr .AccordionItem_heading__arrow__lgPoM {
+  width: 20px;
+  height: 20px;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion__item__heading__WGPPr svg {
+  transition: transform 0.15s;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion__item__heading__WGPPr svg path {
+  transition: fill 0.15s, fill-opacity 0.15s;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion__item__heading__WGPPr:hover {
+  cursor: pointer;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion__item__heading__WGPPr:hover svg {
+  fill: white;
+  fill-opacity: 1;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion_item__body__eVhDl {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 16px;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion_item__body__eVhDl .AccordionItem_body__separator__hK57D {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 20px;
+  width: 100%;
+}
+.AccordionItem_accordion_item__qHuE0 .AccordionItem_accordion_item__body__eVhDl .AccordionItem_body__separator__hK57D .AccordionItem_separator__inner__CeHTQ {
+  height: calc(100% - 8px);
+  width: 1px;
+  background: var(--secondary-15, rgba(236, 243, 255, 0.15));
+}
+
+.AccordionItem_open__YaLzn .AccordionItem_accordion__item__heading__WGPPr svg {
+  transform: rotate(180deg);
+}
+.AccordionItem_open__YaLzn .AccordionItem_accordion__item__heading__WGPPr svg path {
+  fill: white;
+  fill-opacity: 1;
+}

@@ -1,0 +1,41 @@
+@import "index";
+
+.selecet_language__heading {
+  @include flex-vertical-center(12px);
+  padding: 8px 10px;
+  border-radius: 8px;
+  transition: background-color 0.15s;
+
+  svg {
+    path {
+      transition: fill 0.15s, fill-opacity 0.15s;
+    }
+  }
+
+  .heading__text {
+    transition: color 0.15s;
+    color: var(--secondary-50, rgba(236, 243, 255, 0.5));
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+  }
+
+  &:hover,
+  &:active {
+    cursor: pointer;
+    background: #1c1e20;
+
+    svg {
+      path {
+        fill: white;
+        fill-opacity: 1;
+      }
+    }
+
+    .heading__text {
+      color: #fff;
+    }
+  }
+}

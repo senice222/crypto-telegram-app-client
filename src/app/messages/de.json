@@ -1,0 +1,161 @@
+{
+  "index": {
+    "about": {
+      "heading": {
+        "title": "Entdecke den Weg zu verlorenen Krypto-Schätzen",
+        "desc": "Mit der Zeit und der Entwicklung der Welt werden monatlich Millionen von Wallets erstellt, einige gehen verloren und werden vergessen – aber unsere Anwendung verwandelt diese vergessenen Wallets in Einnahmen.",
+        "promo": "Invite your friends and get a discount on any tariff",
+        "button": "Fortfahren"
+      }
+    },
+    "usage": {
+      "heading": {
+        "sub": "Wofür wird die Crypto App verwendet?",
+        "title": "Unsere Anwendung sucht nach vergessenen Krypto-Wallets",
+        "desc": "Werfen wir einen Blick auf unsere Anwendung, was sie tut und wie du der Matrix entkommen kannst.",
+        "button": "Wie Funktioniert es?"
+      }
+    },
+    "features": {
+      "heading": {
+        "sub": "Funktionen",
+        "title": "Unsere Funktionen"
+      },
+      "f1": {
+        "title": "Erfahrung und Zuverlässigkeit",
+        "desc": "Die App wurde über einen Zeitraum von vier Jahren entwickelt und getestet. Seit 2020 nutzen sowohl die Entwickler als auch die Kunden sie ohne Probleme."
+      },
+      "f2": {
+        "title": "Geld-Zurück-Garantie",
+        "desc": "Wenn Sie innerhalb einer Woche keine Wallets finden, erstatten wir Ihnen Ihr Geld. Das ist unser Versprechen an Sie."
+      },
+      "f3": {
+        "title": "Legalität",
+        "desc": "Vergessene Krypto-Wallets zu finden, ist wie verlorenen Schmuck am Strand mit einem Metalldetektor zu suchen. Weder wir noch unsere Kunden haben in den letzten vier Jahren rechtliche Probleme gehabt."
+      },
+      "f4": {
+        "title": "Weltweite Zugänglichkeit",
+        "desc": "Arbeiten Sie von überall auf der Welt – die App hat keine Länderbeschränkungen und funktioniert auf allen Geräten: iPhone, Mac, Windows und Android."
+      },
+      "inline": {
+        "f1": "Gerätekompatibilität",
+        "f2": "Transparente Einnahmen",
+        "f3": "Keine Hardware-Anforderungen",
+        "f4": "Faire Bedingungen",
+        "f5": "Unterstützung"
+      }
+    },
+    "functionality": {
+      "heading": {
+        "sub": "Funktionen",
+        "title": "Verfolgen Sie Ihre Einnahmen jederzeit und überall"
+      },
+      "features": {
+        "desc": "und viele weitere Funktionen..."
+      }
+    },
+    "blockchains": {
+      "heading": {
+        "title": "Über 6 Blockchains zur Auswahl",
+        "desc": "Wir fügen regelmäßig neue Blockchains hinzu."
+      }
+    },
+    "referral": {
+      "heading": {
+        "sub": "Empfehlungsprogramm",
+        "title": "Erhalten Sie 50 % von jedem Anwendungsverkauf."
+      }
+    },
+    "support": {
+      "sub": "Sorgfältiger Support",
+      "desc": "Wenn Sie ein Problem oder eine Frage haben, hilft Ihnen unser technischer Support.",
+      "button": "Chat Öffnen"
+    },
+    "join": {
+      "heading": {
+        "title": "Schließen Sie sich unserem Team an und entkommen Sie der Matrix",
+        "desc": "Bist du bereit? Die Wahl liegt bei dir: weiterhin Netflix schauen, von 9 bis 5 arbeiten oder jetzt handeln.",
+        "button": "Pläne Ansehen"
+      }
+    }
+  },
+  "faq": {
+    "heading": {
+      "sub": "HILFECENTER",
+      "title": "Haben Sie eine Frage oder ein Problem?"
+    },
+    "q1": {
+      "label": "Warum verkaufen wir die Anwendung, anstatt selbst Geld zu verdienen?",
+      "body": "Zunächst haben wir die Anwendung für uns selbst nach vier Jahren harter Arbeit entwickelt. Im Jahr 2020 begannen wir, sie zu nutzen und mit unseren Freunden zu teilen. Im Laufe der Zeit, während unser Einkommen gleich blieb und immer mehr Menschen weltweit Wallets nutzten, sahen wir die Chance, auch anderen zu helfen, Geld zu verdienen. Daher entschieden wir uns, die Anwendung zu verkaufen. Es war eine Reise harter Arbeit und Hingabe, um sicherzustellen, dass jeder die Möglichkeit hat, Geld zu verdienen, während wir unser eigenes Einkommen stabil halten."
+    },
+    "q2": {
+      "label": "Wie funktioniert die App? Was macht sie und wie verdient sie Geld?",
+      "body": "WIE ES FUNKTIONIERT? In einer Welt digitaler Geheimnisse sind wir hier, um Krypto-Wallets zu entmystifizieren. So funktioniert es: Jede Krypto-Wallet hat ihren eigenen Satz aus 12 geheimen Wörtern, wie einen speziellen Schlüssel, der dir von überall Zugriff auf deine Coins gewährt. Hinter diesen 12 Wörtern steckt ein Code, der deinen privaten Schlüssel bildet, der dir wie die 12 Wörter Zugriff auf deine Wallet gibt. Unsere intelligente Technologie generiert diese Schlüssel automatisch und überprüft das Vorhandensein von Coins in den Wallets. Dann überprüfen wir den Kontostand der Wallets und geben das Ergebnis an, das Dutzende von Bitcoins sein könnte, die jemand besitzt."
+    },
+    "q3": {
+      "label": "Ist es legal?",
+      "body": "Angesichts der Tatsache, dass die meisten Wallets wahrscheinlich alt und von ihren Besitzern vergessen sind, betrachten wir dies aus rechtlicher Sicht. Es ist wie das Suchen nach verlorenen Schmuckstücken am Strand mit einem Metalldetektor. So wie niemand denkt, dass das illegal ist, empfinden wir das auch so! In den letzten vier Jahren hatten weder wir noch unsere Kunden Probleme."
+    },
+    "q4": {
+      "label": "Macht es einen Unterschied, in welchem Land ich bin?",
+      "body": "Natürlich nicht. Sie können die App aus jedem Land und von überall auf der Welt nutzen."
+    },
+    "q5": {
+      "label": "Welche Garantien?",
+      "body": "Wir können nicht versprechen, dass Sie 10 Bitcoins finden oder die Kosten der Anwendung an einem einzigen Tag zurückerhalten. Aber das können wir garantieren: Wenn Sie die Wallets innerhalb einer Woche nicht finden, erstatten wir Ihnen gerne Ihre Investition. Das ist unser Engagement Ihnen gegenüber."
+    },
+    "q6": {
+      "label": "Geld aus dem Nichts?",
+      "body": "Für uns war dies einer der schwierigsten Jobs, mit so vielen Stunden, die wir in den letzten vier Jahren damit verbracht haben, Probleme zu beheben, Code zu schreiben und mehr. Wir haben bis spät in die Nacht gearbeitet und viele schlaflose Nächte damit verbracht, auf den Bildschirm zu starren. Es war eine riesige Menge an Arbeit!"
+    },
+    "q7": {
+      "label": "Gib mir die App, ich zahle dir einen Prozentsatz der Gewinne.",
+      "body": "Leute, lasst uns mal realistisch sein. So funktioniert das nicht. Wenn du einen Laptop oder Computer für die Arbeit kaufst, bittest du den Verkäufer nicht, ihn dir kostenlos zu geben, und versprichst dann, ihn zurückzuzahlen, sobald du anfängst, Geld zu verdienen. So läuft das einfach nicht. Ähnlich ist es mit der Anwendung; wir können nicht kontrollieren, wie du sie nach dem Kauf nutzt. Ob du sie regelmäßig verwendest oder vergisst."
+    },
+    "q8": {
+      "label": "Brauche ich ein leistungsstarkes Gerät für die Anwendung?",
+      "body": "Natürlich nicht. Unsere Anwendung läuft vollständig über unsere Server, die über zuverlässige Hardware verfügen. Daher müssen Sie sich keine Sorgen machen. Sie können von jedem Gerät, das Sie haben, Geld verdienen."
+    },
+    "q9": {
+      "label": "Wie viel werde ich am Tag verdienen?",
+      "body": "Jede Erfahrung ist einzigartig. Es gibt Tage, an denen wir überhaupt nichts finden, vielleicht sogar einige Tage der Ruhe. Dann gibt es Tage, an denen wir an einem einzigen Tag 5-10 Wallets entdecken. Es ist wichtig zu wissen, dass wir ein Garantiesystem haben, sodass wir zuversichtlich sind, dass Sie Geld verdienen können."
+    }
+  },
+  "subscription": {
+    "my": {
+      "title": "Meine Abonnements",
+      "desc": "Sie haben keine aktiven Abonnements."
+    },
+    "available": {
+      "title": "Verfügbare Tarife",
+      "promo": "Geld-Zurück-Garantie"
+    }
+  },
+  "referrals": {
+    "heading": {
+      "title": "Meine Empfehlungen"
+    },
+    "rewards": {
+      "title": "Meine Belohnungen",
+      "desc": "Lade mehr Freunde ein, wachse in den sozialen Medien und verdiene so viel wie möglich."
+    },
+    "statistics": {
+      "bal": "Kontostand",
+      "act": "Aktivierungen",
+      "desc": "Kontaktieren Sie den Support, um Gelder abzuheben.",
+      "button": "Gibt es Fragen?"
+    },
+    "marketing": {
+      "sub": "Exklusiv",
+      "title": "ORGANISCHES MARKETING",
+      "1": "Finden Sie virale Videos in verschiedenen sozialen Netzwerken.",
+      "2": "Laden Sie Videos über einen beliebigen Dienst ohne Wasserzeichen herunter.",
+      "3": "Laden Sie 3 Videos pro Tag hoch.",
+      "4": "Posten Sie zu diesen Zeiten: 15:00 Uhr, 18:00 Uhr, 21:00 Uhr (Ortszeit).",
+      "5": "Verdienen Sie 10.000 $/Monat ohne Investitionen, indem Sie unsere App mit dem besten Prozentsatz verkaufen.",
+      "6": "Laden Sie jetzt Ihre Videos auf Instagram Reels, YouTube Shorts und TikTok hoch und verlinken Sie Ihre Website in Ihrer Profilbeschreibung.",
+      "desc": "Laden Sie jetzt Ihre Videos auf Instagram Reels, YouTube Shorts und TikTok hoch und hinterlassen Sie Ihren Empfehlungslink in Ihrer Profilbeschreibung.",
+      "button": "Gibt es Fragen?"
+    }
+  }
+}

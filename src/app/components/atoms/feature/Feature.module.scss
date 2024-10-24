@@ -1,0 +1,9 @@
+@import "index";
+
+.feature {
+  @include flex-column;
+  gap: 12px;
+  border-radius: 16px;
+  background: #131517;
+  padding: 16px;
+}

@@ -1,0 +1,161 @@
+{
+  "index": {
+    "about": {
+      "heading": {
+        "title": "Descubre el camino hacia los tesoros criptográficos perdidos",
+        "desc": "A medida que pasa el tiempo y el mundo evoluciona, se crean millones de carteras mensualmente, algunas se pierden y se olvidan, pero nuestra aplicación convierte estas carteras olvidadas en ganancias.",
+        "promo": "Invita a tus amigos y obtén un descuento en cualquier tarifa",
+        "button": "Continuar"
+      }
+    },
+    "usage": {
+      "heading": {
+        "sub": "¿Para qué se utiliza Crypto App?",
+        "title": "Nuestra aplicación busca carteras criptográficas olvidadas",
+        "desc": "Echemos un vistazo a nuestra aplicación, lo que hace y cómo puedes escapar de la matrix.",
+        "button": "¿Cómo Funciona?"
+      }
+    },
+    "features": {
+      "heading": {
+        "sub": "Características",
+        "title": "Nuestras características"
+      },
+      "f1": {
+        "title": "Experiencia y Confiabilidad",
+        "desc": "La aplicación ha sido desarrollada y probada durante cuatro años. Desde 2020, tanto sus creadores como los clientes la han estado utilizando sin problemas."
+      },
+      "f2": {
+        "title": "Garantía de Devolución de Dinero",
+        "desc": "Si no encuentras ninguna cartera en una semana, te devolveremos tu dinero. Este es nuestro compromiso contigo."
+      },
+      "f3": {
+        "title": "Legalidad",
+        "desc": "Encontrar carteras criptográficas olvidadas es como buscar joyas perdidas en la playa con un detector de metales. Ni nosotros ni nuestros clientes hemos tenido problemas legales en los últimos cuatro años."
+      },
+      "f4": {
+        "title": "Accesibilidad Mundial",
+        "desc": "Trabaja desde cualquier lugar del mundo: la aplicación no tiene restricciones de país y funciona en todos los dispositivos: iPhone, Mac, Windows y Android."
+      },
+      "inline": {
+        "f1": "Compatibilidad de Dispositivos",
+        "f2": "Ganancias Transparentes",
+        "f3": "Sin Requisitos de Hardware",
+        "f4": "Términos Justos",
+        "f5": "Soporte"
+      }
+    },
+    "functionality": {
+      "heading": {
+        "sub": "Características",
+        "title": "Realiza un seguimiento de tus ganancias en cualquier momento y lugar"
+      },
+      "features": {
+        "desc": "y más otras características..."
+      }
+    },
+    "blockchains": {
+      "heading": {
+        "title": "Más de 6 blockchains para elegir",
+        "desc": "Agregamos nuevas blockchains regularmente."
+      }
+    },
+    "referral": {
+      "heading": {
+        "sub": "Sistema de Referencias",
+        "title": "Obtén el 50% de cada venta de la aplicación."
+      }
+    },
+    "support": {
+      "sub": "Soporte Cuidadoso",
+      "desc": "Si tienes algún problema o pregunta, nuestro soporte técnico te asistirá.",
+      "button": "Abrir Chat"
+    },
+    "join": {
+      "heading": {
+        "title": "Únete a nuestro equipo Escapa de la matriz",
+        "desc": "¿Estás listo? La elección es tuya: seguir viendo Netflix, trabajar de 9 a 5 o actuar ahora mismo.",
+        "button": "Ver Planes"
+      }
+    }
+  },
+  "faq": {
+    "heading": {
+      "sub": "CENTRO DE AYUDA",
+      "title": "¿Tienes una pregunta o un problema?"
+    },
+    "q1": {
+      "label": "¿Por qué vendemos la aplicación en lugar de ganar dinero nosotros mismos?",
+      "body": "Al principio, creamos la aplicación para nosotros mismos después de cuatro años de duro trabajo. En 2020, comenzamos a usarla y la compartimos con nuestros amigos. A medida que pasaba el tiempo y nuestros ingresos se mantenían igual, y más personas comenzaron a usar billeteras en todo el mundo, vimos la oportunidad de ayudar a otros a ganar dinero también. Así que decidimos vender la aplicación. Ha sido un viaje de arduo trabajo y dedicación, asegurándonos de que todos tengan la oportunidad de ganar dinero mientras mantenemos nuestros propios ingresos estables."
+    },
+    "q2": {
+      "label": "¿Cómo funciona la aplicación? ¿Qué hace y cómo gana dinero?",
+      "body": "HOW IT WORKS? In a world of digital mysteries, we're here to demystify crypto wallets. Here's how it works: Every crypto wallet has its own set of 12 secret words, like a special key, giving access to your funds from anywhere. Behind those 12 words is a code that forms your Private Key, which, like the 12 words, gives you access to your wallet. So, you're getting these 12 words when you create a wallet in any Crypto Wallet app, and it's created automatically by a special algorithm. Our smart technology automatically generates these keys and checks the presence of coins on the wallets we find. Then we check the balance of the wallets and give the result, which could be dozens of bitcoins that someone forgot in the wallets."
+    },
+    "q3": {
+      "label": "¿Es legal?",
+      "body": "Dado que la mayoría de las carteras son probablemente antiguas y olvidadas por sus propietarios, lo vemos desde un punto de vista legal. Es como buscar joyas perdidas en la playa con un detector de metales. Al igual que nadie piensa que eso es ilegal, nosotros sentimos lo mismo sobre esto. En los últimos cuatro años, ni nosotros ni nuestros clientes hemos tenido problemas legales."
+    },
+    "q4": {
+      "label": "¿Importa en qué país estoy?",
+      "body": "Por supuesto que no. Puedes usar la aplicación desde cualquier país, en cualquier lugar del mundo."
+    },
+    "q5": {
+      "label": "¿Qué garantías?",
+      "body": "No podemos prometer que descubrirás 10 bitcoins o recuperarás el costo de la aplicación en un solo día. Pero aquí está lo que podemos garantizar: Si no encuentras las carteras en una semana, con gusto te reembolsaremos tu inversión. Ese es nuestro compromiso contigo."
+    },
+    "q6": {
+      "label": "¿Dinero de la nada?",
+      "body": "Para nosotros, este ha sido uno de los trabajos más difíciles, con muchas horas dedicadas a solucionar problemas, escribir código y más en los últimos cuatro años. Hemos trabajado hasta altas horas de la noche, pasando muchas noches en vela mirando la pantalla. ¡Ha sido una cantidad enorme de trabajo!"
+    },
+    "q7": {
+      "label": "¿Dame la aplicación, te pagaré un porcentaje de las ganancias?",
+      "body": "Amigos, seamos realistas. Así no es como funcionan las cosas. Cuando compras una laptop o computadora para trabajar, no le pides al vendedor que te la dé gratis, luego le prometes pagarle cuando empieces a ganar dinero. Simplemente no funciona así. De manera similar, con la aplicación, no podemos controlar cómo la usas después de haberla comprado. Ya sea que la uses regularmente o la olvides."
+    },
+    "q8": {
+      "label": "¿Necesito un dispositivo potente para la aplicación?",
+      "body": "Por supuesto que no. Nuestra aplicación funciona completamente a través de nuestros servidores, que tienen hardware confiable. Así que no tienes que preocuparte por eso. Puedes empezar a ganar dinero desde cualquier dispositivo que tengas."
+    },
+    "q9": {
+      "label": "How much a day will I earn?",
+      "body": "Cada experiencia es única. Hay días en los que no encontramos nada, tal vez incluso unos días de silencio. Luego, hay días en los que descubrimos 5-10 carteras en un solo día. Es importante saber que tenemos un sistema de garantía, por lo que confiamos en que podrás ganar dinero."
+    }
+  },
+  "subscription": {
+    "my": {
+      "title": "Mis Suscripciones",
+      "desc": "No tienes suscripciones activas."
+    },
+    "available": {
+      "title": "Tarifas Disponibles",
+      "promo": "Garantía de Devolución de Dinero"
+    }
+  },
+  "referrals": {
+    "heading": {
+      "title": "Mis Referidos"
+    },
+    "rewards": {
+      "title": "Mis Recompensas",
+      "desc": "Invita a más amigos, crece en las redes sociales y gana tanto como sea posible."
+    },
+    "statistics": {
+      "bal": "Balance",
+      "act": "Activaciones",
+      "desc": "Contacta con el soporte para retirar fondos.",
+      "button": "¿Alguna pregunta?"
+    },
+    "marketing": {
+      "sub": "EXCLUSIVE",
+      "title": "ORGANIC MARKETING",
+      "1": "Encuentra videos virales en diferentes redes sociales.",
+      "2": "Descarga videos a través de cualquier servicio sin marca de agua.",
+      "3": "Sube 3 videos al día.",
+      "4": "Publica en estos horarios: 3 PM, 6 PM, 9 PM (hora local).",
+      "5": "Gana $10K/mes sin inversiones, ganando dinero vendiendo nuestra aplicación con el mejor porcentaje.",
+      "6": "Ahora sube tus videos a Instagram Reels, YouTube Shorts y TikTok, y vincula tu sitio web en la biografía de tu perfil.",
+      "desc": "Now upload your videos to Instagram Reels, YouTube Shorts, and TikTok, and leave your referral link in your profile bio.",
+      "button": "¿Alguna pregunta?"
+    }
+  }
+}

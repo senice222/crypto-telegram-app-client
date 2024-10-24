@@ -1,0 +1,103 @@
+@import "index";
+
+.index {
+  .index__about {
+    @include flex-column(32px);
+    padding: 272px 20px 20px 20px;
+    background-image: url("../../assets/images/backgrounds/index-about-bg.png");
+    background-repeat: no-repeat;
+
+    .about__heading {
+      @include flex-column(16px);
+    }
+  }
+
+  .index__usage {
+    @include flex-column-center(32px);
+    text-align: center;
+    padding: 20px;
+
+    .usage__heading {
+      @include flex-column-center(16px);
+    }
+  }
+
+  .index__features {
+    @include flex-column(32px);
+    padding: 20px;
+
+    .features__heading {
+      @include flex-column-center(16px);
+    }
+
+    .features__list {
+      @include flex-column(16px);
+    }
+  }
+
+  .index__functionality {
+    @include flex-column-center(32px);
+    padding: 20px;
+
+    .functionality__heading {
+      @include flex-column-center(16px);
+      text-align: center;
+    }
+
+    .functionality__illustrations {
+      @include flex-column(16px);
+    }
+
+    .functionality__features {
+      @include flex-column-center(32px);
+      width: 100%;
+
+      .features__list {
+        @include flex-column(8px);
+        align-items: flex-start;
+        width: 100%;
+      }
+    }
+  }
+
+  .index__blockchains {
+    @include flex-column-center(24px);
+    padding: 20px;
+
+    .blockchains__heading {
+      @include flex-column-center(16px);
+      text-align: center;
+    }
+  }
+
+  .index__referral {
+    @include flex-column-center(24px);
+    padding: 20px;
+
+    .referral__heading {
+      @include flex-column-center(16px);
+      text-align: center;
+
+      .heading__illustrations {
+        @include flex-center(12px);
+      }
+    }
+  }
+
+  .index__support {
+    @include flex-column-center(32px);
+    padding: 20px;
+    text-align: center;
+  }
+
+  .index__join {
+    @include flex-column-center(24px);
+    padding: 20px;
+    text-align: center;
+
+    .join__heading {
+      @include flex-column-center(16px);
+      max-width: 306px;
+    }
+  }
+}

@@ -1,0 +1,9 @@
+@import "index";
+
+.select_dropdown {
+  @include flex-column;
+  gap: 6px;
+  padding: 4px;
+  height: 100%;
+  overflow: auto;
+}

@@ -1,0 +1,32 @@
+@import "index";
+
+.subscription {
+  @include flex-column;
+
+  .subscription__my_subscriptions {
+    @include flex-column(16px);
+    padding: 24px 20px;
+  }
+
+  .subscription__download {
+    @include flex-column(16px);
+    padding: 24px 20px;
+
+    .download__heading {
+      @include flex-space-between;
+    }
+
+    .download__description {
+      @include flex-space-between;
+    }
+
+    .download__platforms {
+      @include flex-column(12px);
+    }
+  }
+
+  .subscription__available {
+    @include flex-column(24px);
+    padding: 24px 20px;
+  }
+}

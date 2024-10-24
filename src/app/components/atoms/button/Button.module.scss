@@ -1,0 +1,41 @@
+@import "index";
+
+.button {
+  @include flex-center;
+  border-radius: 12px;
+  padding: 16px 24px;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%;
+  background: none;
+  outline: none;
+  border: none;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.primary {
+  color: var(--Native-text_color, #000);
+  background: #fff;
+  transition: background-color 0.15s;
+
+  &:hover,
+  &:active {
+    background: #e7e7e7;
+  }
+}
+
+.secondary {
+  border: 1px solid var(--secondary-15, rgba(236, 243, 255, 0.15));
+  color: #fff;
+  transition: background-color 0.15s;
+
+  &:hover,
+  &:active {
+    background: #1a1b1d;
+  }
+}

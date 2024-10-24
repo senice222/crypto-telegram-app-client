@@ -1,0 +1,20 @@
+@import "index";
+
+.radio_button {
+  @include flex-space-between(12px);
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  transition: background-color 0.15s, border 0.15s;
+  padding: 12px;
+  border: 1px solid rgba(236, 243, 255, 0.05);
+
+  .radio_button__info {
+    @include flex-center(12px);
+  }
+}
+
+.selected {
+  background: #181a1c;
+  border: 1px solid #181a1c;
+}

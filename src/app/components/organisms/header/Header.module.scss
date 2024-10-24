@@ -1,0 +1,6 @@
+@import "index";
+
+.header {
+  @include flex-space-between;
+  padding: 12px;
+}

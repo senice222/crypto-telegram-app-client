@@ -1,0 +1,120 @@
+@mixin flex-vertical-center($gap: null) {
+  display: flex;
+  align-items: center;
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}
+
+@mixin flex-center($gap: null) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}
+
+@mixin flex-stretch($gap: null) {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}
+
+@mixin flex-right($gap: null) {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}
+
+@mixin flex-left($gap: null) {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}
+
+@mixin flex-space-between($gap: null) {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}
+
+@mixin flex-column($gap: null) {
+  display: flex;
+  flex-direction: column;
+
+  @if $gap != null {
+    gap: $gap;
+  }
+}
+
+@mixin flex-column-center($gap: null) {
+  @include flex-column($gap);
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin hover-opacity($opacity: 0.7, $duration: 0.15s) {
+  transition: opacity $duration;
+
+  &:hover,
+  &:active {
+    opacity: $opacity;
+    cursor: pointer;
+  }
+}
+
+@mixin hover-underline {
+  text-decoration: none;
+  transition: text-decoration 0.15s ease-in-out;
+
+  &:hover,
+  &:active {
+    text-decoration: underline;
+    cursor: pointer;
+  }
+}
+
+@mixin hover-rotate($degrees: 180deg, $transition: 0.3s ease-in-out) {
+  transition: transform $transition;
+
+  &:hover,
+  &:active {
+    transform: rotate($degrees);
+    cursor: pointer;
+  }
+}
+
+@mixin inset-border($color: #fff) {
+  position: relative;
+
+  &::before {
+    content: "";
+    border: 1px solid $color;
+    position: absolute;
+    width: calc(100% - 2px);
+    height: calc(100% - 2px);
+    border-radius: inherit;
+    left: 0px;
+    top: 0;
+    z-index: 0;
+  }
+}

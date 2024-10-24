@@ -1,0 +1,161 @@
+{
+  "index": {
+    "about": {
+      "heading": {
+        "title": "Discover the path to misplaced crypto treasures",
+        "desc": "As time passes and the world evolves, millions of wallets are created monthly, some lost and forgotten - but our application turns these forgotten wallets into earnings.",
+        "promo": "Invite your friends and get a discount on any tariff",
+        "button": "Continue"
+      }
+    },
+    "usage": {
+      "heading": {
+        "sub": "What is Crypto App used for?",
+        "title": "Our application searches for forgotten crypto wallets",
+        "desc": "Let's take a look at our application, what it does and how you can escape the matrix.",
+        "button": "How Does It Work?"
+      }
+    },
+    "features": {
+      "heading": {
+        "sub": "Features",
+        "title": "Our features"
+      },
+      "f1": {
+        "title": "Experience and Reliability",
+        "desc": "The app has been developed and tested over four years. Since 2020, both its creators and clients have been using it without issues."
+      },
+      "f2": {
+        "title": "Money-Back Guarantee",
+        "desc": "If you don't find any wallets within a week, we will refund your money. This is our commitment to you."
+      },
+      "f3": {
+        "title": "Legality",
+        "desc": "Finding forgotten crypto wallets is like searching for lost jewelry on the beach with a metal detector. Neither we nor our clients have encountered legal issues in the past four years."
+      },
+      "f4": {
+        "title": "Worldwide Accessibility",
+        "desc": "Work from anywhere in the world — the app has no country restrictions and works on all devices: iPhone, Mac, Windows, and Android."
+      },
+      "inline": {
+        "f1": "Device Compatibility",
+        "f2": "Transparent Earnings",
+        "f3": "No Hardware Requirements",
+        "f4": "Fair Terms",
+        "f5": "Support"
+      }
+    },
+    "functionality": {
+      "heading": {
+        "sub": "Features",
+        "title": "Track your earnings anytime, anywhere"
+      },
+      "features": {
+        "desc": "and more other features..."
+      }
+    },
+    "blockchains": {
+      "heading": {
+        "title": "6+ blockchains to choose from",
+        "desc": "We add new blockchains regularly."
+      }
+    },
+    "referral": {
+      "heading": {
+        "sub": "Referral System",
+        "title": "Get 50% of every application sale."
+      }
+    },
+    "support": {
+      "sub": "Careful Support",
+      "desc": "If you have any problem or question, our technical support will assist you.",
+      "button": "Open Chat"
+    },
+    "join": {
+      "heading": {
+        "title": "Join our team Escape the matrix",
+        "desc": "Are you ready? The choice is yours: continue watching Netflix, work a 9-5 or take action right now.",
+        "button": "View Plans"
+      }
+    }
+  },
+  "faq": {
+    "heading": {
+      "sub": "HELP CENTER",
+      "title": "Have a question or problem?"
+    },
+    "q1": {
+      "label": "Why do we sell the application instead of making money ourselves?",
+      "body": "At first, we made the application for ourselves after four years of hard work. In 2020, we started using it and shared it with our friends. As time went on and our income stayed the same, and more people started using wallets worldwide, we saw the chance to help others earn money too. So, we decided to sell the application. It's been a journey of hard work and dedication, making sure everyone has a chance to make money while keeping our own income stable."
+    },
+    "q2": {
+      "label": "How does the app work? What does it do and how does it make money?",
+      "body": "HOW IT WORKS? In a world of digital mysteries, we're here to demystify crypto wallets. Here's how it works: Every crypto wallet has its own set of 12 secret words, like a special key, giving access to your funds from anywhere. Behind those 12 words is a code that forms your Private Key, which, like the 12 words, gives you access to your wallet. So, you're getting these 12 words when you create a wallet in any Crypto Wallet app, and it's created automatically by a special algorithm. Our smart technology automatically generates these keys and checks the presence of coins on the wallets we find. Then we check the balance of the wallets and give the result, which could be dozens of bitcoins that someone forgot in the wallets."
+    },
+    "q3": {
+      "label": "Ist es legal?",
+      "body": "Given that most wallets are likely old and forgotten by their owners, we view it from a legal standpoint. It's like searching for lost jewelry on the beach with a metal detector. Just as no one thinks that's illegal, we feel the same way about this! Over the past four years, neither we nor our clients have encountered any issues."
+    },
+    "q4": {
+      "label": "Does it make any difference which country I am in?",
+      "body": "Of course not. You can use the app from any country, anywhere in the world."
+    },
+    "q5": {
+      "label": "What guarantees?",
+      "body": "We can't promise you'll uncover 10 bitcoins or recoup the application's cost in a single day. But here's what we can guarantee: If you don't find the wallets within a week, we'll gladly refund your investment. That's our commitment to you."
+    },
+    "q6": {
+      "label": "Money out of thin air?",
+      "body": "For us, this has been one of the hardest jobs, with so many hours spent fixing problems, writing code, and more over the last four years. We've worked late into the night, spending many sleepless nights staring at the screen. It's been a huge amount of work!"
+    },
+    "q7": {
+      "label": "Give me the app, I'll pay you a percent of the profits?",
+      "body": "Guys, let's get real here. It's not how things work. When you buy a laptop or computer for work, you don't ask the seller to give it to you for free, then promise to pay them back once you start making money. It's just not the way it goes. Similarly, with the application, we can't control how you use it after you've bought it. Whether you end up using it regularly or forget about it."
+    },
+    "q8": {
+      "label": "Do I need a powerful device for the application?",
+      "body": "Of course not. Our application operates entirely through our servers, which have dependable hardware. So, there's no need to stress about it. You can start earning from any device you have."
+    },
+    "q9": {
+      "label": "How much a day will I earn?",
+      "body": "Every experience is unique. There are days when we find nothing at all, maybe even a few days of quiet. Then there are days when we discover 5-10 wallets in a single day. It's important to know that we have a guarantee system, so we're confident that you can earn money."
+    }
+  },
+  "subscription": {
+    "my": {
+      "title": "My Subscriptions",
+      "desc": "You have no active subscriptions."
+    },
+    "available": {
+      "title": "Available Tariffs",
+      "promo": "Money-Back Guarantee"
+    }
+  },
+  "referrals": {
+    "heading": {
+      "title": "My Referrals"
+    },
+    "rewards": {
+      "title": "My Rewards",
+      "desc": "Invite more friends, grow on social media, and earn as much as possible."
+    },
+    "statistics": {
+      "bal": "Balance",
+      "act": "Activations",
+      "desc": "Contact support to withdraw funds.",
+      "button": "Any questions?"
+    },
+    "marketing": {
+      "sub": "EXCLUSIVE",
+      "title": "ORGANIC MARKETING",
+      "1": "Find viral videos on different social networks.",
+      "2": "Download videos through any service without a watermark.",
+      "3": "Upload 3 videos a day.",
+      "4": "Post at these timestamps: 3 PM, 6 PM, 9 PM (local time).",
+      "5": "Make $10K/month with $0 investments, making money by selling our app with the best percentage.",
+      "6": "Now upload your videos on Instagram Reels, YouTube Shorts, and TikTok, and have your website linked in your profile bio.",
+      "desc": "Now upload your videos to Instagram Reels, YouTube Shorts, and TikTok, and leave your referral link in your profile bio.",
+      "button": "Any questions?"
+    }
+  }
+}

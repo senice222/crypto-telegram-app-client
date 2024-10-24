@@ -1,0 +1,9 @@
+@import "index";
+
+.timer {
+  @include flex-center(20px);
+
+  .timer__frame {
+    @include flex-column-center(6px);
+  }
+}

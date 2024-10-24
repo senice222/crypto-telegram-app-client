@@ -1,0 +1,6 @@
+@import "index";
+
+.footer {
+  @include flex-space-between;
+  padding: 20px;
+}

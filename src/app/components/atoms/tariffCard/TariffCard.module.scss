@@ -1,0 +1,51 @@
+@import "index";
+
+.tariff_card {
+  @include flex-column(6px);
+  position: relative;
+  padding: 16px 20px;
+  border-radius: 12px;
+
+  .tariff_card__price {
+    z-index: 1;
+    @include flex-space-between;
+
+    .price__main {
+      @include flex-vertical-center(10px);
+    }
+  }
+}
+
+.regular {
+  @include inset-border(rgba(236, 243, 255, 0.06));
+  background: radial-gradient(
+      78.15% 102.8% at 96.49% 2.03%,
+      rgba(236, 243, 255, 0.05) 0%,
+      rgba(53, 41, 15, 0) 100%
+    ),
+    #1a1c1e;
+}
+
+.platinum {
+  @include inset-border(rgba(236, 243, 255, 0.06));
+  background: radial-gradient(
+      78.15% 102.8% at 96.49% 2.03%,
+      rgba(182, 209, 255, 0.15) 0%,
+      rgba(58, 64, 69, 0) 100%
+    ),
+    #1a1c1e;
+}
+
+.exclusive {
+  @include inset-border(rgba(236, 243, 255, 0.06));
+  background: radial-gradient(
+      78.15% 102.8% at 96.49% 2.03%,
+      rgba(255, 207, 94, 0.15) 0%,
+      rgba(53, 41, 15, 0) 100%
+    ),
+    #1a1c1e;
+}
+
+.tariff_card__all_blockchains {
+  @include flex-vertical-center(10px);
+}

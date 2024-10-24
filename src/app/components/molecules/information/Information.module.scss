@@ -1,0 +1,24 @@
+@import "index";
+
+.information__heading {
+  @include flex-vertical-center(10px);
+}
+
+.information__content {
+  @include flex-stretch(10px);
+
+  .content__separator {
+    @include flex-center;
+    width: 20px;
+
+    .separator__inner {
+      width: 1px;
+      height: 100%;
+      background: var(--secondary-15, rgba(236, 243, 255, 0.15));
+    }
+  }
+
+  .content__list {
+    @include flex-column(12px);
+  }
+}

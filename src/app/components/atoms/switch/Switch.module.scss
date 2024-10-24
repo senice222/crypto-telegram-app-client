@@ -1,0 +1,53 @@
+@import "index";
+
+.switch {
+  @include flex-center(4px);
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid rgba(236, 243, 255, 0.05);
+  background: #0e0f11;
+  height: 50px;
+  padding: 5px;
+  box-sizing: border-box;
+
+  .switch__item {
+    @include flex-center;
+    transition: color 0.15s;
+    height: 100%;
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+
+    &:hover,
+    &:active {
+      cursor: pointer;
+      background: #1c1e20;
+    }
+  }
+
+  .active {
+    background: #181a1c;
+    color: var(--secondary-50, rgba(236, 243, 255, 0.5)) !important;
+
+    &:hover,
+    &:active {
+      opacity: 0.7;
+    }
+  }
+
+  .switch__item,
+  .active {
+    transition: background-color 0.15s, opacity 0.15s, color 0.15s;
+
+    &:hover,
+    &:active {
+      cursor: pointer;
+    }
+  }
+}

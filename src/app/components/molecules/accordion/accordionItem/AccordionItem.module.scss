@@ -1,0 +1,64 @@
+@import "index";
+
+.accordion_item {
+  @include flex-column(16px);
+
+  .accordion__item__heading {
+    @include flex-space-between(16px);
+
+    .heading__info {
+      @include flex-center(16px);
+    }
+
+    .heading__arrow {
+      width: 20px;
+      height: 20px;
+    }
+
+    svg {
+      transition: transform 0.15s;
+
+      path {
+        transition: fill 0.15s, fill-opacity 0.15s;
+      }
+    }
+
+    &:hover {
+      cursor: pointer;
+
+      svg {
+        fill: white;
+        fill-opacity: 1;
+      }
+    }
+  }
+
+  .accordion_item__body {
+    @include flex-stretch(16px);
+
+    .body__separator {
+      @include flex-center;
+      max-width: 20px;
+      width: 100%;
+
+      .separator__inner {
+        height: calc(100% - 8px);
+        width: 1px;
+        background: var(--secondary-15, rgba(236, 243, 255, 0.15));
+      }
+    }
+  }
+}
+
+.open {
+  .accordion__item__heading {
+    svg {
+      transform: rotate(180deg);
+
+      path {
+        fill: white;
+        fill-opacity: 1;
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+.default_ap_wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.space_between {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.vertical_center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.horizontal_center {
+  display: flex;
+  justify-content: center;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

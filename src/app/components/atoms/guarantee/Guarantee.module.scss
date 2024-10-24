@@ -1,0 +1,36 @@
+@import "index";
+
+.guarantee {
+  @include flex-column(14px);
+  padding: 16px;
+  border-radius: 14px;
+  background: rgba(150, 225, 79, 0.07);
+
+  .guarantee__heading {
+    @include flex-vertical-center(10px);
+
+    .guarantee__text {
+      color: #96e14f;
+      font-family: Inter;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 100%;
+    }
+  }
+
+  .guarantee__description {
+    @include flex-stretch(10px);
+
+    .description__separator {
+      @include flex-center;
+      width: 43.23px;
+
+      .separator__inner {
+        height: 100%;
+        width: 1px;
+        background: rgba(150, 225, 79, 0.45);
+      }
+    }
+  }
+}

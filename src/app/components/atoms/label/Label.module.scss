@@ -1,0 +1,70 @@
+.label {
+  font-family: Inter;
+  font-style: normal;
+  transition: color 0.15s;
+}
+
+.default {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.small {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.x_small {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 160%;
+}
+
+.b_default {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+.b_large {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 160%;
+}
+
+.b_small {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 100%;
+}
+
+.b_x_small {
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 160%;
+}
+
+.white {
+  color: #fff;
+}
+
+.light_gray {
+  color: rgba(236, 243, 255, 0.75);
+}
+
+.gray {
+  color: rgba(236, 243, 255, 0.5);
+}
+
+.dark_gray {
+  color: rgba(236, 243, 255, 0.25);
+}
+
+.exclusive {
+  background: linear-gradient(89deg, #ffcf5e 29.53%, #d5a42f 78.26%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

@@ -1,0 +1,22 @@
+.copy {
+  svg {
+    transition: transform 0.15s;
+
+    path {
+      transition: fill-opacity 0.15s;
+    }
+  }
+
+  &:hover,
+  &:active {
+    cursor: pointer;
+
+    svg {
+      transform: translateY(-3px);
+
+      path {
+        fill-opacity: 0.5;
+      }
+    }
+  }
+}

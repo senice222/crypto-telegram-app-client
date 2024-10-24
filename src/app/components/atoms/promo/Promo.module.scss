@@ -1,0 +1,14 @@
+@import "index";
+
+.promo {
+  @include flex-center(16px);
+
+  .promo__text {
+    color: rgba(236, 243, 255, 0.75);
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+  }
+}

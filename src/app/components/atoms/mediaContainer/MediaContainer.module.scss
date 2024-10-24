@@ -1,0 +1,88 @@
+@keyframes media_initial {
+  0% {
+    transform: scale(0);
+  }
+  70% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.media_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: media_initial 0.3s forwards linear;
+  transition: all 0.3s;
+  border-radius: 8px;
+
+  svg {
+    transition: all 0.3s;
+
+    path {
+      transition: all 0.3s;
+    }
+  }
+}
+
+.hover-default {
+  &:hover,
+  &:active {
+    cursor: pointer;
+
+    svg {
+      path {
+        fill: white;
+        fill-opacity: 1;
+      }
+    }
+  }
+}
+
+.hover-rotate {
+  &:hover,
+  &:active {
+    cursor: pointer;
+
+    svg {
+      transform: rotate(180deg);
+
+      path {
+        fill: white;
+        stroke: white;
+        fill-opacity: 1;
+      }
+    }
+  }
+}
+
+.hover-stroke {
+  &:hover,
+  &:active {
+    cursor: pointer;
+
+    svg {
+      path {
+        stroke: white;
+        fill-opacity: 1;
+      }
+    }
+  }
+}
+
+.hover-grey {
+  &:hover,
+  &:active {
+    background: #2a3039;
+    cursor: pointer;
+
+    svg {
+      path {
+        fill: white;
+        fill-opacity: 1;
+      }
+    }
+  }
+}

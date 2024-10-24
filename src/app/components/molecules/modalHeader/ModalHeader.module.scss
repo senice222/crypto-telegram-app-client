@@ -1,0 +1,10 @@
+@import "index";
+
+.modal_header {
+  @include flex-space-between(16px);
+  padding: 12px;
+
+  .modal_header__info {
+    @include flex-center(12px);
+  }
+}

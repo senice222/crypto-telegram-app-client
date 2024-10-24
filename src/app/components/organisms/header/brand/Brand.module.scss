@@ -1,0 +1,6 @@
+@import "index";
+
+.brand {
+  @include flex-center(10px);
+  text-decoration: none;
+}

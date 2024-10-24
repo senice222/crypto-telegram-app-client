@@ -1,0 +1,59 @@
+{
+  "pages": {
+    "/(pages)/(index)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(pages)/(index)/page.css",
+      "static/chunks/app/(pages)/(index)/page.js"
+    ],
+    "/(pages)/(index)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(pages)/(index)/layout.js"
+    ],
+    "/(pages)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(pages)/layout.css",
+      "static/chunks/app/(pages)/layout.js"
+    ],
+    "/(pages)/referrals/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(pages)/referrals/page.css",
+      "static/chunks/app/(pages)/referrals/page.js"
+    ],
+    "/(pages)/referrals/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(pages)/referrals/layout.js"
+    ],
+    "/(pages)/subscription/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(pages)/subscription/page.css",
+      "static/chunks/app/(pages)/subscription/page.js"
+    ],
+    "/(pages)/subscription/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(pages)/subscription/layout.js"
+    ],
+    "/(pages)/faq/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(pages)/faq/page.css",
+      "static/chunks/app/(pages)/faq/page.js"
+    ],
+    "/(pages)/faq/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(pages)/faq/layout.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
+    ]
+  }
+}

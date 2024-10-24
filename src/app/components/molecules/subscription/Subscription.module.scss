@@ -1,0 +1,22 @@
+@import "index";
+
+.subscription {
+  @include flex-column(4px);
+  border-radius: 16px;
+  background: #131517;
+  padding: 4px;
+
+  .subscription__heading {
+    text-align: center;
+  }
+
+  .subscription__properties {
+    padding: 12px;
+  }
+
+  .subscription__blockchains {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4px;
+  }
+}

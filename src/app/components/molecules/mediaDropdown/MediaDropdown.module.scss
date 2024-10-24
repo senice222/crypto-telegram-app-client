@@ -1,0 +1,18 @@
+@import "index";
+
+.media_dropdown {
+  border-radius: 12px;
+  background: #131517;
+  box-shadow: 0px 4px 8px 0px rgba(12, 13, 14, 0.25),
+    0px 16px 32px 0px rgba(12, 13, 14, 0.15);
+  padding: 4px;
+
+  .media_dropdown__parent_category {
+    @include flex-column;
+
+    .parent_category__category {
+      @include flex-column;
+      gap: 6px;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+@import "index";
+
+.faq {
+  .faq__heading {
+    @include flex-column(24px);
+    padding: 24px 20px;
+
+    .heading__title {
+      @include flex-column(16px);
+    }
+  }
+
+  .faq__list {
+    padding: 24px 20px;
+  }
+}
